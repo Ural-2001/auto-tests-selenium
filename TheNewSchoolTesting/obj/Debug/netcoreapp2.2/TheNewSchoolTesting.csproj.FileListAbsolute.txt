@@ -1,0 +1,13 @@
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/TheNewSchoolTesting.deps.json
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/TheNewSchoolTesting.runtimeconfig.json
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/TheNewSchoolTesting.runtimeconfig.dev.json
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/TheNewSchoolTesting.dll
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/bin/Debug/netcoreapp2.2/TheNewSchoolTesting.pdb
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/obj/Debug/netcoreapp2.2/TheNewSchoolTesting.csprojAssemblyReference.cache
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/obj/Debug/netcoreapp2.2/TheNewSchoolTesting.AssemblyInfoInputs.cache
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/obj/Debug/netcoreapp2.2/TheNewSchoolTesting.AssemblyInfo.cs
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/obj/Debug/netcoreapp2.2/TheNewSchoolTesting.dll
+/Users/uralozbaan/RiderProjects/TheNewSchoolTesting/TheNewSchoolTesting/obj/Debug/netcoreapp2.2/TheNewSchoolTesting.pdb
