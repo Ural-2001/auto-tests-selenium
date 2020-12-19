@@ -7,6 +7,10 @@ namespace TheNewSchoolTesting
     {
         public void Login(AccountData user)
         {
+            if (IsLoggedIn())
+            { 
+                return;
+            }
             driver.FindElement(By.CssSelector(".icon-header_signed-out")).Click();
             driver.FindElement(By.Id("username_input")).Click();
             driver.FindElement(By.Id("username_input")).SendKeys(user.Username);
@@ -19,8 +23,20 @@ namespace TheNewSchoolTesting
 
         public LoginHelper(ApplicationManager manager) : base(manager)
         {
-
         }
-
+        
+        public bool IsLoggedIn()
+        {
+            try
+            {
+                driver.FindElement(By.CssSelector(".icon-header_signed-out")).Click();
+            }
+            catch
+            {
+                return false;
+            }
+        
+            return true;
+        }
     }
 }
